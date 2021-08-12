@@ -193,7 +193,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 85%;
+    width: 80%;
   }
 }
 @keyframes load3 {
@@ -201,7 +201,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 75%;
+    width: 85%;
   }
 }
 @keyframes load4 {
@@ -209,7 +209,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 65%;
+    width: 60%;
   }
 }
 @keyframes load5 {
@@ -217,7 +217,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 95%;
+    width: 75%;
   }
 }
 /* 
