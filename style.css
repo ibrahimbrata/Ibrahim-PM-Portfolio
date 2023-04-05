@@ -185,7 +185,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 90%;
+    width: 95%;
   }
 }
 @keyframes load2 {
@@ -193,7 +193,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 80%;
+    width: 90%;
   }
 }
 @keyframes load3 {
@@ -201,7 +201,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 85%;
+    width: 95%;
   }
 }
 @keyframes load4 {
@@ -209,7 +209,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 60%;
+    width: 65%;
   }
 }
 @keyframes load5 {
@@ -217,7 +217,7 @@ h6 {
     width: 0;
   }
   100% {
-    width: 75%;
+    width: 80%;
   }
 }
 /* 
@@ -242,8 +242,8 @@ PORTFOLIO */
 .item2 {
   position: relative;
   width: 350px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 10px;
+  margin-right: 100px;
   /* padding: 5px; */
 }
 .item3 {
